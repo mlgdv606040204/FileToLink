@@ -1,5 +1,4 @@
 pyrogram
-Flask
 pyrofork
 tgcrypto
 aiohttp
